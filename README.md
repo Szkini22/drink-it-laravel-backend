@@ -9,3 +9,6 @@ This is the back-end part of a full-stack project which involves a bunch of coct
  - MariaDB
  - Cron Job for scheduling operations
  - Redis for caching data
+
+### Try it with this front-end
+https://github.com/Szkini22/drink-it-react-frontend

@@ -4,7 +4,7 @@ This is the back-end part of a full-stack project which involves a bunch of coct
 
 ## What we used
 
- - Sanctum for authorization
+ - Sanctum for authentication
  - Eloquent
  - MariaDB
  - Cron Job for scheduling operations
